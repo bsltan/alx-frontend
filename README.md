@@ -1,4 +1,4 @@
-# alx-frontend
+# ALX-FRONTEND
 
 ## Table of contents
 Files | Description
